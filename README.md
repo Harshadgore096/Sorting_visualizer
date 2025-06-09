@@ -1,12 +1,21 @@
-# React + Vite
+Tech Stack:
+React.js (with Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JavaScript (ES6+)
 
-Currently, two official plugins are available:
+CSS3 (Flexbox & Transitions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HTML5
 
-## Expanding the ESLint configuration
+Data Structures And Algorithms 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Key Highlights 
+Built an interactive Sorting Visualizer using React, enabling real-time animations of algorithms like Bubble, Selection, Insertion, and Merge Sort.
+
+Implemented sorting logic using asynchronous JavaScript and setTimeout/Promise to visually simulate each comparison and swap.
+
+Integrated stop/resume control, algorithm selection, and dynamic array generation for user-driven learning and testing.
+
+Applied color-coded bars and transitions to improve data visibility and enhance algorithm step-by-step visualization.
+
